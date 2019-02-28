@@ -3,8 +3,8 @@ package BlockChain;
 import java.util.*;
 import java.sql.Timestamp;
 
-//Andrew Nguyen
-//300019561
+//Mohammad Rahman
+//300040646
 //Block Class
 public class Block {
 	private int index;
